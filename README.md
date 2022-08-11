@@ -1,0 +1,1 @@
+# gradle-self-conflict-issue
